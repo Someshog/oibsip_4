@@ -6,7 +6,7 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-image: url("bgd3.jpg");
+  background-image: url("../public/bgd3.jpg");
   object-fit: contain;
   background-size: cover;
   font-family: "poppins", arial;
